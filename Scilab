@@ -1,0 +1,8 @@
+Task 1
+Stimulate the response of a single degree of freedom(SDOF) system subjected to a unit step displacement
+
+Define state variable
+ODEs for each state variable
+write in vector form
+Task 2
+Change the value of stiffness, K and observe the changes in the vibration level
